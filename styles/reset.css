@@ -1,0 +1,19 @@
+::after,
+::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body-container {
+    height: 100%;
+}
+
+.navbar-ul-item {
+    list-style: none;
+}
+
+.item-a {
+    text-decoration: none;
+    color: inherit;
+}

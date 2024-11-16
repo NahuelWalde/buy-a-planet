@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'FuenteRegular';
+    src: url('../fonts/Poppins-Regular.ttf') format('woff2'),
+        url('../fonts/Poppins-Regular.ttf') format('woff'),
+        url('../fonts/Poppins-Regular.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'FuenteBold';
+    src: url('../fonts/Poppins-Bold.ttf');
+}
+
+.main-grid {
+    overflow: hidden;
+}
+
+.planets {
+    overflow: hidden;
+}
